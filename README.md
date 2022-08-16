@@ -21,6 +21,8 @@
   <img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 <br>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lausompac&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   📫 How to reach me: <a href='mailto:lauranunes.c@gmail.com'>lauranunes.c@gmail.com</a>
