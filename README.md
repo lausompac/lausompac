@@ -7,7 +7,7 @@
 <div id="badges">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauranunes/)](https://www.linkedin.com/in/lauranunes/)
-![CodeWars Badge](https://www.codewars.com/users/lausompac/badges/micro)
+[![CodeWars Badge](https://www.codewars.com/users/lausompac/badges/micro)](https://www.codewars.com/users/lausompac)
 <img src="https://komarev.com/ghpvc/?username=lausompac&style=flat-square&color=blue" alt=""/>
 
 
